@@ -44,7 +44,7 @@ Al entrenar esta red, la grafica de la función de costo me dio una recta, sin e
 <br>
 <center>
 <p align="center">
-  <img src="img/fc.png" />
+  <img src="fc.png" />
 </p>
 </center>
 <br>
